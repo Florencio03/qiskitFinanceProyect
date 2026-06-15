@@ -1,0 +1,11 @@
+qiskit
+qiskit-aer
+qiskit-algorithms
+qiskit-optimization
+qiskit-finance
+qiskit-ibm-runtime
+numpy
+pandas
+matplotlib
+yfinance
+jupyterlab
